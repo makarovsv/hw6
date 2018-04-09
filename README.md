@@ -1,12 +1,12 @@
 # hw6
 
 Часть 1. Google Ngram Viewer
-https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2017.08.26.png
-https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2017.12.32.png
-https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2017.19.54.png
+![](https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2017.08.26.png)
+![](https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2017.12.32.png)
+![](https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2017.19.54.png)
 Частотность употребление слова «movie» в обоих корпусах возрастает, ровно как и слова «film», но с куда меньшим темпом. Слово «film» встречается одинаково часто в обоих корпусах, но частота употребления слова «movie» в американском корпусе выше чем в британском. Можно сделать вывод о том что слово «movie» более специфично именно для американского вариант английского языка
 
 Часть 2. Sketch Engine
-https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2019.25.17.png
-https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2019.28.02.png
+![](https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2019.25.17.png)
+![](https://github.com/makarovsv/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2019.28.02.png)
 Частотность употребления слова «oversee» в sketch engine равномерно растет на протяжении всего периода времени, резких скачков почти нет. В Ngrams наблюдается резкий скачок употребления этого слова в 1960-х годах, который продолжается по сегодняшний день. Подобная разница может быть обоснована несколько разной спецификой направленности сервисов и отличием в используемых ресурсах. 
